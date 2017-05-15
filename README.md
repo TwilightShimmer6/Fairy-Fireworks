@@ -5,8 +5,9 @@ A recreation of Fairy Fireworks from Disney's Pixie Hollow, using the Construct 
 Current Version: WIP 3 (0.3)
 
 New in this version:
+- Added instructions
 - Added a new pattern
-- Changed the way that the patterns interact with the light dots
+- Changed the way that the patterns interact with the light dots (again)
 - Added fireworks
-- Minor tweaks to the Fairy
+- Minor tweaks to the Fairy 
 - Minor tweaks to light spawning
