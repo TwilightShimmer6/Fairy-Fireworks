@@ -9,6 +9,7 @@ New in this version:
 - [ALL] Added better dot sprites
 - [ALL] Made moths spawn in 15 second intervals instead of 25
 - [ALL] Added the white dot of light that instantly fills any pattern
+- [ALL] Added sound effects for when you finish a pattern, and get hit by a moth
 - [BUGFIX] Fixed the hitboxes on the patterns and menus. Should make them easier to work with!
 - Added a new Classic Gamemode
   - Includes three lives like in the original game. Get hit by a moth while having light in your basket and you'll lose a life!
