@@ -12,4 +12,4 @@ New in this version:
 - [BUGFIX] Fixed the hitboxes on the patterns and menus. Should make them easier to work with!
 - Added a new Classic Gamemode
   - Includes three lives like in the original game. Get hit by a moth while having light in your basket and you'll lose a life!
-- [TIMED] Added a timer item that spawns every 15 seconds and restores 8 seconds to the timer
+
