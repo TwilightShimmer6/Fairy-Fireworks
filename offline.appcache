@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1494979273
+#1497310483
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -41,7 +41,22 @@ images/fairy_fireworks_yellow_flower_patternred-sheet0.png
 images/fairy_fireworks_yellow_flower_patternyellow-sheet0.png
 images/fairy_fireworks_score-sheet0.png
 images/fairy_fireworks_score2-sheet0.png
+images/basket-sheet0.png
+images/basket-sheet1.png
+images/basket-sheet2.png
+images/image-sheet0.png
+images/image2-sheet0.png
 media/pixie%20hollow%20music%20-%20fairy%20fireworks%20[low,%20480x360].ogg
+media/sound%201.ogg
+media/sound%2010.ogg
+media/sound%2011.ogg
+media/sound%2012.ogg
+media/sound%2013.ogg
+media/sound%202.ogg
+media/sound%206.ogg
+media/sound%208.ogg
+media/sound%209.ogg
+media/sound%205.ogg
 icon-16.png
 icon-32.png
 icon-114.png
