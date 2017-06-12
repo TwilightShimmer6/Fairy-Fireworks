@@ -6,7 +6,7 @@ Current Version: Version 2.0
 
 New in this version:
 - [ALL] Click the dots to add them to your basket instead of dragging them to the patterns
-- [ALL] Added better dot sprites
+- [ALL] Added some better sprites (More coming in the future) [THANKS WIND!!!]
 - [ALL] Made moths spawn in 15 second intervals instead of 25
 - [ALL] Added the white dot of light that instantly fills any pattern
 - [ALL] Added sound effects for when you finish a pattern, and get hit by a moth
